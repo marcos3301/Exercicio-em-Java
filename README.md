@@ -17,19 +17,19 @@ Modelo de Saída
   número deve ser impresso em uma linha, conforme exemplo abaixo.
   
 Use Listas.
-|                     Exemplo de Entrada                  | Exemplo de Saída |
-| ------------------------------------------------------- | ---------------- |
-| 10 // Será o valor de N, logo, teremos 10 linhas abaixo | 4                |
-| 4                                                       | 32               |
-| 32                                                      | 34               |
-| 34                                                      | 98               |
-| 543                                                     | 654              |
-| 3456                                                    | 3456             |
-| 654                                                     | 6789             |
-| 567                                                     | 567              |
-| 87                                                      | 543              |
-| 6789                                                    | 87               |
-| 98                                                      |                  |
+                     Exemplo de Entrada                  | Exemplo de Saída 
+ ------------------------------------------------------- | ---------------- 
+ 10 // Será o valor de N, logo, teremos 10 linhas abaixo | 4                
+ 4                                                       | 32               
+ 32                                                      | 34               
+ 34                                                      | 98               
+ 543                                                     | 654              
+ 3456                                                    | 3456             
+ 654                                                     | 6789             
+ 567                                                     | 567              
+ 87                                                      | 543              
+ 6789                                                    | 87               
+ 98                                                      |                  
 
 2. Crie um código que gere valores aleatórios e os guarde em um Set, simulando uma aposta
 da Mega Sena.
