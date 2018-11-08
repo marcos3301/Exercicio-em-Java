@@ -18,7 +18,7 @@ Modelo de Saída
   
 Use Listas.
 Exemplo de Entrada | Exemplo de Saída
------------------- | ----------------
+-------------------------------------
 10 // Será o valor de N, logo, teremos 10 linhas abaixo | 4
 4 | 32
 32 | 34
